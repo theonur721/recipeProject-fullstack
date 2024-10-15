@@ -1,0 +1,161 @@
+[
+    {
+      "id": "1",
+      "recipeName": "Mercimek Çorbası",
+      "category": "Çorba",
+      "ingredients": [
+        "1 su bardağı kırmızı mercimek",
+        "1 adet soğan",
+        "1 adet havuç",
+        "1 adet patates",
+        "2 yemek kaşığı sıvı yağ",
+        "1 tatlı kaşığı tuz",
+        "yarım çay kaşığı karabiber",
+        "1 tatlı kaşığı kırmızı biber",
+        "6 su bardağı su",
+        "1 limonun suyu"
+      ],
+      "instructions": [
+        "Mercimeği yıkayın ve süzün.",
+        "Soğanları doğrayın, patates ve havucu küçük küp şeklinde kesin.",
+        "Sıvı yağı bir tencerede ısıtın, doğranmış soğanı ve havucu kızarıncaya kadar soteleyin.",
+        "Patatesi tencereye ekleyip karıştırın.",
+        "Su, tuz, karabiber ve kırmızı biberi ilave edin.",
+        "Mercimekler yumuşayana kadar yaklaşık 40 dakika kaynatın.",
+        "Pişirme işlemi tamamlandıktan sonra blender ile pürüzsüz bir kıvam alana kadar çekin.",
+        "Servis yapmadan önce limon suyunu ekleyin ve karıştırın."
+      ],
+      "recipeTime": 60,
+      "servingSuggestion": "Karnıyarık ve ekmek turşu ile servis yapabilirsiniz.",
+      "image": "https://osmancikhabercomtr.teimg.com/crop/1280x720/osmancikhaber-com-tr/uploads/2023/08/mercimekcorbasi-1.jpg"
+    },
+    {
+      "id": "2",
+      "recipeName": "Fırında Tavuk",
+      "category": "Ana Yemek",
+      "ingredients": [
+        "4 adet tavuk budu",
+        "2 yemek kaşığı zeytinyağı",
+        "1 tatlı kaşığı tuz",
+        "yarım tatlı kaşığı karabiber",
+        "1 tatlı kaşığı kekik",
+        "2 diş sarımsak"
+      ],
+      "instructions": [
+        "Fırınınızı 180 dereceye ayarlayın.",
+        "Tavuk butlarını yıkayın ve kurulayın.",
+        "Bir kapta zeytinyağı, tuz, karabiber, kekik ve ezilmiş sarımsakları karıştırın.",
+        "Tavuk butlarını bu karışımla iyice ovun.",
+        "Yağlı kağıt serili fırın tepsisine tavukları dizin.",
+        "Önceden ısıtılmış fırında 45-50 dakika pişirin."
+      ],
+      "recipeTime": 60,
+      "servingSuggestion": "Pirinç pilavı veya sebze garnitürü ile servis yapabilirsiniz.",
+      "image": "https://static.daktilo.com/sites/206/uploads/2024/04/03/klasik-ama-lezzetli-4-kisilik-firinda-tavuk-15-dakikada-hazir-firinda-tavuk-tarifi-5.webp"
+    },
+    {
+      "id": "3",
+      "recipeName": "Mevsim Salatası",
+      "category": "Salata",
+      "ingredients": [
+        "1 adet marul",
+        "1 adet domates",
+        "1 adet salatalık",
+        "1 adet havuç",
+        "1 adet kırmızı biber",
+        "1 adet limon",
+        "2 yemek kaşığı zeytinyağı",
+        "tuz",
+        "karabiber"
+      ],
+      "instructions": [
+        "Marulu, domatesi, salatalığı ve havucu yıkayıp doğrayın.",
+        "Kırmızı biberi ince şeritler halinde kesin.",
+        "Bir salata kasesine doğradığınız sebzeleri alın.",
+        "Üzerine limon suyu, zeytinyağı, tuz ve karabiber ekleyip karıştırın."
+      ],
+      "recipeTime": 15,
+      "servingSuggestion": "Yanında beyaz peynir ve tam buğday ekmeği ile servis yapabilirsiniz.",
+      "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2019/02/mevsim-salatasi-sunum-yemekcom.jpg"
+    },
+    {
+      "id": "4",
+      "recipeName": "Ispanaklı Börek",
+      "category": "Hamur İşi",
+      "ingredients": [
+        "Yufka",
+        "500 gram ıspanak",
+        "1 adet soğan",
+        "2 yemek kaşığı sıvı yağ",
+        "tuz",
+        "karabiber"
+      ],
+      "instructions": [
+        "Ispanakları yıkayıp doğrayın.",
+        "Soğanı doğrayın ve sıvı yağ ile birlikte soteleyin.",
+        "Doğranmış ıspanakları ekleyip suyunu çekene kadar pişirin.",
+        "Tuz ve karabiber ekleyip karıştırın.",
+        "Yufkaları tezgaha serin.",
+        "Üzerlerine ıspanaklı harçtan yayın.",
+        "Rulo şeklinde sarın ve yağlanmış tepsiye yerleştirin.",
+        "Üzerine yağ sürüp önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirin."
+      ],
+      "recipeTime": 45,
+      "servingSuggestion": "Ayran veya yoğurt ile servis yapabilirsiniz.",
+      "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2022/03/ispanakli-borek-yemekcom.jpg"
+    },
+    {
+      "id": "5",
+      "recipeName": "Kremalı Mantar Çorbası",
+      "category": "Çorba",
+      "ingredients": [
+        "300 gram mantar",
+        "1 adet soğan",
+        "2 yemek kaşığı tereyağı",
+        "2 yemek kaşığı un",
+        "4 su bardağı tavuk suyu",
+        "1 su bardağı krema",
+        "tuz",
+        "karabiber"
+      ],
+      "instructions": [
+        "Mantarları yıkayıp doğrayın.",
+        "Soğanı doğrayın ve tereyağı ile birlikte soteleyin.",
+        "Doğranmış mantarları ekleyip suyunu çekene kadar pişirin.",
+        "Unu ekleyip kavurun.",
+        "Tavuk suyunu ekleyip kaynayana kadar karıştırın.",
+        "Krema, tuz ve karabiber ekleyip birkaç dakika daha pişirin.",
+        "Blendırdan geçirip pürüzsüz bir kıvam alana kadar çekin."
+      ],
+      "recipeTime": 30,
+      "servingSuggestion": "Taze kekik veya dereotu ile süsleyip sıcak servis yapabilirsiniz.",
+      "image": "https://image.hurimg.com/i/hurriyet/75/750x422/5e1d775bc9de3d081888d5e3.jpg"
+    },
+    {
+      "id": "6",
+      "recipeName": "Peynirli Poğaça",
+      "category": "Hamur İşi",
+      "ingredients": [
+        "3 su bardağı un",
+        "1 su bardağı yoğurt",
+        "1 çay bardağı sıvı yağ",
+        "1 adet yumurta",
+        "1 paket kabartma tozu",
+        "100 gram beyaz peynir",
+        "1 yemek kaşığı susam",
+        "tuz"
+      ],
+      "instructions": [
+        "Un, yoğurt, sıvı yağ, yumurta, kabartma tozu ve tuzu karıştırıp hamur yoğurun.",
+        "Hamurdan ceviz büyüklüğünde parçalar koparıp açın.",
+        "Ortasına beyaz peynir koyup kapatın.",
+        "Yağlı kağıt serili fırın tepsisine dizin.",
+        "Üzerlerine çırpılmış yumurta sarısı sürün ve susam serpin.",
+        "Önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirin."
+      ],
+      "recipeTime": 45,
+      "servingSuggestion": "Çay veya kahve ile servis yapabilirsiniz.",
+      "image": "https://www.nefisyemek.com/modul/user/fuimg/201903/15514455050.71097400.jpg"
+    }
+  ]
+  
